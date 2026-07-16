@@ -1,0 +1,15 @@
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/bin/Debug/net10.0/SistemaRendaCS
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/bin/Debug/net10.0/SistemaRendaCS.deps.json
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/bin/Debug/net10.0/SistemaRendaCS.runtimeconfig.json
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/bin/Debug/net10.0/SistemaRendaCS.dll
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/bin/Debug/net10.0/SistemaRendaCS.pdb
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.AssemblyInfoInputs.cache
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.AssemblyInfo.cs
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.sourcelink.json
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.dll
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/refint/SistemaRendaCS.dll
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.pdb
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/SistemaRendaCS.genruntimeconfig.cache
+/home/alan/Documentos/Projetos CS/SistemaRendaCS/SistemaRendaCS/obj/Debug/net10.0/ref/SistemaRendaCS.dll
