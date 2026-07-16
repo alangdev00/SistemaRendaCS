@@ -16,6 +16,7 @@ namespace SistemaRendaCS.Models
     }
     public class Parcela
     {
+        //Provável alteração de usar parcelas como classe pricipal da arquitetura e voltar o app a ela
         public DateTime pagamento {get; set;}
         double ValorParcela {get; set;}
         //será usado pra atrelar-se ao seu "nó pai"
