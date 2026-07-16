@@ -7,9 +7,9 @@ namespace SistemaRendaCS.Models
 {
     public class Mes
     {
-        List<Despesa> despesas=new List<Despesa>();
+        List<Parcelas> despesas=new List<Parcelas>();
         //Referencia apenas para critérios de programação, mudar depois
         public String Nome;
-        
+
     }
 }
