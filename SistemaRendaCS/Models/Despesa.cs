@@ -13,6 +13,7 @@ namespace SistemaRendaCS.Models
         public String Nome {get; set;}
         public String Descricao {get; set;}
         String ID;
+        List<Parcela> Parcelas = new List<Parcela>();
     }
     public class Parcela
     {
@@ -20,10 +21,11 @@ namespace SistemaRendaCS.Models
         public DateTime pagamento {get; set;}
         double ValorParcela {get; set;}
         //será usado pra atrelar-se ao seu "nó pai"
+        String IDf;
         String ID;
         //Informações vai ser um atributo genérico e por enquanto informará dados como taxa de juros e etc
-        public Parcela(String ID)
+        public Parcela(String IDf)
         {
-            this.ID=ID;
+            this.IDf=IDf;
         }
 }
